@@ -3,8 +3,8 @@
 *   loo_vector
 */
 
-#ifndef LOOSTL_STL_VECTOR_H
-#define LOOSTL_STL_VECTOR_H
+#ifndef LOOSTL_LOO_VECTOR_H
+#define LOOSTL_LOO_VECTOR_H
 
 #include "loo_config.h"
 #include "loo_alloc.h"
